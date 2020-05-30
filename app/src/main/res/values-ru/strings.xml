@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Изменить язык и отступы </string>
+    <string name="OK">OK</string>
+    <string name="languageText">Выберите язык</string>
+    <string name="mergeText">Выберите отступы</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="merges">
+        <item>стандартная</item>
+        <item>мелкая</item>
+        <item>средняя</item>
+        <item>крупная</item>
+    </string-array>
+</resources>

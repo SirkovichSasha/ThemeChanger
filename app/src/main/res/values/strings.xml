@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ThemeChanger</string>
+
+    <string name="OK">OK</string>
+    <string name="languageText">Language</string>
+    <string name="mergeText">Merge</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+    <string-array name="merges">
+        <item>Standart</item>
+        <item>Small</item>
+        <item>Middle</item>
+        <item>Large</item>
+    </string-array>
+</resources>
